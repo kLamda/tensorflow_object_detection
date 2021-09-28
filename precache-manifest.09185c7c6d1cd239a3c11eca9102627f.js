@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "75e02ca83a45bbc44e16d8689023f990",
+    "revision": "defd6f00d15dfa483c94e3943490d8ea",
     "url": "/tensorflow_object_detection/index.html"
   },
   {
-    "revision": "288d76870d74f8eed839",
+    "revision": "c7ba334e38f132286f80",
     "url": "/tensorflow_object_detection/static/css/main.523f09c5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tensorflow_object_detection/static/js/2.1b9fb303.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "288d76870d74f8eed839",
-    "url": "/tensorflow_object_detection/static/js/main.0ad41e4a.chunk.js"
+    "revision": "c7ba334e38f132286f80",
+    "url": "/tensorflow_object_detection/static/js/main.00d0633d.chunk.js"
   },
   {
     "revision": "74abcb8b61e094633f81",
